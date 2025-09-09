@@ -1,2 +1,2 @@
-# 2025_BCS_GRP07_PS
-GROUP 7 COMPUTER PROGRAMMING BCS 2025
+# VENDING MACHINE PROJECT
+This is an a project showing a vending machine
